@@ -1,7 +1,7 @@
 ---
 title: 💡 08. Introducing Derek Tumala
 categories: [RESEARCH. Visions of Pan Asian Futures (VPAF)]
-tags: [asian art, history of art, visual studies, art education, futurism]
+tags: [asian art, history of art, visual studies, art education, futurism, environmental studies]
 description: Derek Tumala is a Filipino artist exploring the intersection between art, technology, and science, with a focus on environmental issues and ecological worldbuilding.
 ---
 

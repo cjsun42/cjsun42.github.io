@@ -1,7 +1,7 @@
 ---
 title: 💡 07. Introducing Hiroto Ikeuchi
 categories: [RESEARCH. Visions of Pan Asian Futures (VPAF)]
-tags: [asian art, history of art, visual studies, art education, futurism, cyberpunk]
+tags: [asian art, history of art, visual studies, art education, futurism, cyberpunk, cyborgs]
 description: Hiroto Ikeuchi is a Japanese designer and artist based in Tokyo. He fashions intricate and wearable cyberpunk-inspired gears out of recycled plastic and industrial components.
 ---
 
