@@ -14,7 +14,7 @@ description: Chicago citation of all sources consulted for this project.
 
 *An Evening with Artist Lee Bul.* The Met, 2024. [https://www.youtube.com/watch?v=bd9fHXhGwhU](https://www.youtube.com/watch?v=bd9fHXhGwhU).
 
-Antoinette, Michelle, and Caroline Turner. “Epilogue: ‘My Future Is Not a Dream’: Shifting Worlds of Contemporary Asian Art and Exhibitions.” In *Contemporary Asian Art and Exhibitions*, 233–54. Connectivities and World-Making. ANU Press, 2014. [https://www.jstor.org/stable/j.ctt13wwv81.16](http://www.jstor.org/stable/j.ctt13wwv81.16).
+Antoinette, Michelle, and Caroline Turner. “Epilogue: ‘My Future Is Not a Dream’: Shifting Worlds of Contemporary Asian Art and Exhibitions.” In *Contemporary Asian Art and Exhibitions*, 233–54. Connectivities and World-Making. ANU Press, 2014. [https://www.jstor.org/stable/j.ctt13wwv81.16](https://www.jstor.org/stable/j.ctt13wwv81.16).
 
 Aouf, Rima Sabina. “Ikeuchi Hiroto Sculpts Wearable Cyberpunk Fantasias from Gadgets.” Dezeen, January 20, 2022. [https://www.dezeen.com/2022/01/20/ikeuchi-hiroto-exhibition-wearable-technology-sai-gallery-tokyo/](https://www.dezeen.com/2022/01/20/ikeuchi-hiroto-exhibition-wearable-technology-sai-gallery-tokyo/).
 
@@ -54,7 +54,7 @@ Hypebrother. “Hiroto Ikeuchi: The Artist Behind the Cyberpunk Masks.” Access
 
 Java Futurism. “Java-Futurism: Experimental Music and Sonic Activism in Indonesia.” Accessed May 13, 2025. [https://javafuturism.blogg.lu.se](https://javafuturism.blogg.lu.se).
 
-Jim, Alice Ming Wai. “Ethnic Futurisms and Contemporary Art.” In *Art and Knowledge after 1900*, edited by JAMES FOX and VID SIMONITI, 245–69. Interactions between Modern Art and Thought. Manchester University Press, 2023. [https://www.jstor.org/stable/jj.9596429.18](http://www.jstor.org/stable/jj.9596429.18).
+Jim, Alice Ming Wai. “Ethnic Futurisms and Contemporary Art.” In *Art and Knowledge after 1900*, edited by JAMES FOX and VID SIMONITI, 245–69. Interactions between Modern Art and Thought. Manchester University Press, 2023. [https://www.jstor.org/stable/jj.9596429.18](https://www.jstor.org/stable/jj.9596429.18).
 
 Katsikopoulou, Myrto. “Interview: Kumkum Fernando Releases Swarm of Gigantic Robot Gods at Coachella 2023.” designboom, April 21, 2023. [https://www.designboom.com/art/interview-kumkum-fernando-coachella-gigantic-robot-gods-asian-cultural-elements-04-21-2023/](https://www.designboom.com/art/interview-kumkum-fernando-coachella-gigantic-robot-gods-asian-cultural-elements-04-21-2023/).
 
@@ -116,7 +116,7 @@ de Veyra, Patrick. “Derek Tumala Brings Rave Culture within Philippine Museums
 
 Whitestone Gallery. “KONGKEE.” Accessed May 13, 2025. [https://www.whitestone-gallery.com/blogs/artist/kongkee](https://www.whitestone-gallery.com/blogs/artist/kongkee).
 
-Wijekumar, Vyshnavee. “Osheen Siva Draws Cosmic Creations from Ancestral Echoes.” ACMI, March 20, 2025. [https://www.acmi.net.au/stories-and-ideas/osheen-siva-interview/](http://www.acmi.net.au/stories-and-ideas/osheen-siva-interview/).
+Wijekumar, Vyshnavee. “Osheen Siva Draws Cosmic Creations from Ancestral Echoes.” ACMI, March 20, 2025. [https://www.acmi.net.au/stories-and-ideas/osheen-siva-interview/](https://www.acmi.net.au/stories-and-ideas/osheen-siva-interview/).
 
 Wrightwood 659. “Crafting the Cyberpunk City: Kongkee and Abby Chen in Conversation,” 2023. [https://wrightwood659.org/programs/crafting-the-cyberpunk-city-kongkee-and-abby-chen-in-conversation/](https://wrightwood659.org/programs/crafting-the-cyberpunk-city-kongkee-and-abby-chen-in-conversation/).
 
