@@ -1,7 +1,7 @@
 ---
 title: 🔎 00. Defining Asian Futurism 
-categories: [RESEARCH. Visions of Pan Asian Futures]
-tags: [asian art, history of art, visual studies, art education]
+categories: [RESEARCH. Visions of Pan Asian Futures (VPAF)]
+tags: [asian art, history of art, visual studies, art education, project overview, futurism]
 pin: true
 ---
 
