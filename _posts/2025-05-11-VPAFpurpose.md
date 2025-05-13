@@ -5,7 +5,7 @@ tags: [asian art, history of art, visual studies, art education, project mission
 pin: true
 description: As a History of Art major, an ABC, and a sci-fi fan, I have long been interested in exploring Asian Futurism. Thus commenced the "Visions of Pan Asian Futures" series.
 ---
-![image](purposetop.jpg)
+![image](/images/purposetop.jpg)
 *Photo by [Francois Hoang](https://unsplash.com/@aoirostudio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash") on [Unsplash](https://unsplash.com/photos/high-angle-photography-of-city-during-nighttime-MFYlCoSm-0o?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
       
 
@@ -33,5 +33,5 @@ I have already mentioned my major objectives for this project in the first secti
 
 By doing so, I hope to encourage myself, as well as others, to pursue art education and cultural appreciation for personal enrichment. Often, I find myself struggling to enjoy a subject due to the pressures of academia, where learning can quickly become memorization. I invite anyone who visits this site (as well as myself) onto a more lighthearted journey through art history: I hope that everytime I come back to an artist entry, I will connect with the artworks and sources in a new and exciting way :)
 
-![image](neoncity.jpg)
+![image](/images/neoncity.jpg)
 *Photo by [Hiep Duong](https://unsplash.com/@hiepdaiduong93?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/people-walking-on-street-during-night-time-Z0aBm6359Oo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).*

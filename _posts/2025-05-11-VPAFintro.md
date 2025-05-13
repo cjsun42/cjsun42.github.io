@@ -6,7 +6,7 @@ description: What are we talking about when we talk about Asian futurism?
 pin: true
 ---
 
-![image](introtop.jpg)
+![image](/images/introtop.jpg)
 *Photo by [MJH SHIKDER](https://unsplash.com/@mjh_shikder?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-computer-generated-image-of-a-futuristic-landscape-U62hhCof3xA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash").*
       
 

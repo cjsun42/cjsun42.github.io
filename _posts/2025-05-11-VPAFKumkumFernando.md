@@ -25,7 +25,7 @@ Fernando handmade these punks using wooden reminents of French era architecture,
 ---
 I really, really love the Post Colonial Rainbow Punks. They are playful and novel while still paying tribute to Vietnamese traditions. For instance, the [project process page](https://kumkum.jonathanlevineprojects.com/process-post-colonial-rainbow-punks/) notes how Fernando specifically preserved (and even enhanced) the layers of paint on the repurposed wood, because they embody the Vietnamese custom of coating doors in celebration of major milestones. I find it interesting how, in turn, these pieces of abandoned wood are not only symbolic of French colonialism in Saigon, but also the rich Vietnamese culture that thrived despite it.
 
-The process page also went into detail regarding Fernando's approach to woodworking and embellishing. It guides the reader step-by-step through the creation of a punk. Similar to how I felt regarding Noah Harders' mask captions, this behind-the-scenes look really made me appreciate the final products even more. I enjoyed the BTS images very much, because it seemed like Fernando and his team were genuinely very proud and happy with this whimsical yet sincere project.
+The process page also went into detail regarding Fernando's approach to woodworking and embellishing. It guides the reader step-by-step through the creation of a punk. Similar to how I felt regarding [Noah Harders](https://cjsun42.github.io/posts/VPAFNoahHarders/)' mask captions, this behind-the-scenes look really made me appreciate the final products even more. I enjoyed the BTS images very much, because it seemed like Fernando and his team were genuinely very proud and happy with this whimsical yet sincere project.
 
 ## **Resources and Further Readings** 📖
 

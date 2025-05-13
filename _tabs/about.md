@@ -6,8 +6,13 @@ order: 4
 
 ## **Who Created this Website?**
 ---
-![Desktop View](aboutme.png){: width="100" height="100" .left}
+![Desktop View](/images/aboutme.png){: width="100" height="100" .left}
 Well, hello there~ I am Chloe, a current undergrad at Bryn Mawr College in PA, USA. I am  very interested in History of Art, East Asian Studies, and Museum Studies. Recently, I have been thinking a lot about public education, art access, and cultural preservation, especially in context of pan-asian folk arts, such as shadow puppetry, paper cutting, and calligraphy. 
+
+---
+
+> Here is the source code for Fluid Mosaic, as hosted on GitHub: [https://github.com/cjsun42/cjsun42.github.io](https://github.com/cjsun42/cjsun42.github.io)
+{: .prompt-tip}
 
 ---
 <div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/6705G9I9sUcNCaJF10" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
