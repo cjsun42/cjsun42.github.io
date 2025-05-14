@@ -2,7 +2,7 @@
 title: 💡 04. Introducing Lee Bul
 categories: [RESEARCH. Visions of Pan Asian Futures (VPAF)]
 tags: [asian art, history of art, visual studies, art education, futurism, cyborgs]
-description: Lee Bul is a Korean multidisciplinary artist. She explores themes of progress and perfection through futuristic imageries.
+description: Lee Bul is a Korean multidisciplinary artist who explores progress and perfection through futuristic imageries.
 ---
 
 ## **Lee Bul:** About the Artist
