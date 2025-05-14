@@ -2,7 +2,7 @@
 title: 💡 05. Introducing Kumkum Fernando
 categories: [RESEARCH. Visions of Pan Asian Futures (VPAF)]
 tags: [asian art, history of art, visual studies, art education, futurism]
-description: Kumkum Fernando is an multidisciplinary artist based in Saigon, Vietnam. He collects various curiosities, scraps, and ancient artifacts, reanimating these found materials as art objects.
+description: Kumkum Fernando is a multidisciplinary artist based in Saigon, Vietnam. He collects various curiosities, scraps, and ancient artifacts, reanimating these found materials as art objects.
 ---
 
 ## **Kumkum Fernando:** About the Artist
