@@ -21,7 +21,7 @@ While this exploration was happening, I was also taking a course on Digital Huma
 
 ## 💻 **Process:** How I created this website
 ---
-I initially wanted to host this project on [Scalar](https://scalar.me/), as a sort of digital exhibit. However, the platform is down due to technical difficulties as of May 2025, so I had seek alternatives.
+I initially wanted to host this project on [Scalar](https://scalar.me/), as a sort of digital exhibit. However, the platform is down due to technical difficulties as of May 2025, so I had to seek alternatives.
 
 I considered moving the project to StoryMaps, which I am more familiar with. However, there was not a strong geographical or statistical component to my entries, and I did not want to limit the artists to a singular nationality, especially when so many of them have had cross-cultural experiences. I also knew I wanted to have separate tabs/pages for each of the artist introductions, so the scrolling/gallery format of the platform was not particularly appealing to me.
 
