@@ -17,7 +17,7 @@ Along the way, I have discovered that I am very interested in how modern/contemp
 
 However, despite my interests, I was not familiarize with any practicing Asian Futurist artists. The ones I did know about were high-profile and largely East Asian. I wanted to expand my understanding of Asian contemporary art across a diversity of communities and identities, which demanded inquiry into specific artists and their unique practices. 
 
-While this exploration was happening, I was also taking a course on Digital Humanities. I thought that a Futurism-focused project demanded some type of accessible, digital presentation, so that's how this blog, *Fluid Mosaic*, and this series, "Visions of Pan Asian Futures," came to be.
+While this exploration was happening, I was also taking a course on Digital Humanities. I thought that a Futurism-focused project necessitated some type of accessible, digital presentation, so that's how this blog, *Fluid Mosaic*, and this series, "Visions of Pan Asian Futures," came to be.
 
 ## 💻 **Process:** How I created this website
 ---
