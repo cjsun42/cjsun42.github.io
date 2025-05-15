@@ -29,7 +29,7 @@ Finally, I settled on the more flexible and casual design of a blog page. I had 
 
 ## 🥅 **Mission:** What I hope to achieve with this project 
 ---
-I already outlined my major objectives for this project in the first section of the post. But to reiterate, I intend on using this blog and this series as an opportunity for self exploration. The posts are not extremely formal or analysis-driven, rather informative and resource-heavy. My reflections are similar to reading responses, a debrief with myself (and any potential readers) after cruising through artist interviews, features, and galleries. 
+I already outlined my major objectives for this project in the first section of the post. As aforementioned, I intend on using this blog and this series as an opportunity for self exploration. The posts are not extremely formal or analysis-driven, rather informative and resource-heavy. My reflections are similar to reading responses, a debrief with myself (and any potential readers) after cruising through artist interviews, features, and galleries. 
 
 In doing so, I hope to encourage myself, as well as others, to pursue art education and cultural appreciation for personal enrichment. Often, I find myself struggling to enjoy a subject due to the pressures of academia, where learning can quickly become memorization. I invite anyone who visits this site (as well as myself) onto a more lighthearted journey through art history: I hope that everytime I come back to an artist entry, I will connect with the artworks and sources in a new and exciting way :)
 
